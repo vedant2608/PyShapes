@@ -1,5 +1,5 @@
 
-'''This class gives the perimeter of basic shapes'''
+'''These methods gives the perimeter of basic shapes'''
 try:
     def parallelogram(self, _base, _height):
         '''
