@@ -4,7 +4,7 @@ class perimeter:
             '''
             parallelogram(....)
             parallelogram(self,_base,_height)
-             -> This returns the perimeter of parallelogram
+             -> This returns the perimeter.py of parallelogram
              -> accepts the two arguments:value of base and value of height
             '''
             return 2 * (_base + _height)
@@ -13,7 +13,7 @@ class perimeter:
             '''
             triangle(....)
             triangle(self,_a,_b,_c)
-             -> This returns the perimeter of parallelogram
+             -> This returns the perimeter.py of parallelogram
              -> accepts the three arguments:values of three sides
             '''
             return _a + _b + _c
@@ -22,7 +22,7 @@ class perimeter:
             '''
             rectangle(....)
             rectangle(self,_length,_width)
-             -> This returns the perimeter of rectangle
+             -> This returns the perimeter.py of rectangle
              -> accepts the two arguments:values of length and width
             '''
             return 2 * (_length + _width)
@@ -31,7 +31,7 @@ class perimeter:
             '''
             square(....)
             square(self,_side)
-             -> This returns the perimeter of square
+             -> This returns the perimeter.py of square
              -> accepts an argument: value of side
             '''
             return 4 * _side
@@ -40,7 +40,7 @@ class perimeter:
             '''
             trapezoid(....)
             trapezoid(self,_a,_b,_c,_d):
-             -> This returns the perimeter of trapezoid
+             -> This returns the perimeter.py of trapezoid
              -> accepts the four arguments:values of its four sides
             '''
             return _a + _b + _c
@@ -49,7 +49,7 @@ class perimeter:
             '''
             kite(....)
             kite(self,_a,_b):
-             -> This returns the perimeter of kite
+             -> This returns the perimeter.py of kite
              -> accepts the two arguments:values of four sides
             '''
             return 2 * (_a + _b)
@@ -58,7 +58,7 @@ class perimeter:
             '''
             rhombus(....)
             rhombus(self,_a):
-             -> This returns the perimeter of rhombus
+             -> This returns the perimeter.py of rhombus
              -> accepts an argument:value of a side
             '''
             return 4 * _a
@@ -67,7 +67,7 @@ class perimeter:
             '''
             hexagon(....)
             hexagon(self,_a):
-             -> This returns the perimeter of hexagon
+             -> This returns the perimeter.py of hexagon
              -> accepts an argument:value of a side
             '''
             return 6 * _a
@@ -76,7 +76,7 @@ class perimeter:
             '''
             polygon(....)
             rectangle(self,_n,_l):
-             -> This returns the perimeter of polygon
+             -> This returns the perimeter.py of polygon
              -> accepts the two arguments:number of sides and length of a side
             '''
             return _n * _l
