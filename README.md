@@ -1,3 +1,3 @@
 # PyShapes
 
-## This repository contains the codes of area,perimeter,volume of basic geometrical shape
+## This repository contains the code of area, perimeter, volume of different basic geometrical shapes.
