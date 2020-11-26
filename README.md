@@ -15,7 +15,7 @@
 >>> #### <li>Paste this repository (PyShapes) in your workspace</li>
 >>> #### <li>Import Package</li>
 ```python
-import package_name.package.module as rename
+import package-name.package.module as rename
 ```
 
 
